@@ -8,7 +8,7 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
-
+Todas las tareas necesarias para desarrollar un proyecto en su totalidad, van divididas según las etapas del proyecto.
 ## 📌 Puntos Claves (Opcional)
 - 
 

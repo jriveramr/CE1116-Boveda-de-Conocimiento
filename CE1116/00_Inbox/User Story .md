@@ -8,7 +8,7 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
-
+Es el punto de vista desde el que un usuario explica un requerimiento funcional. Sirven para extraer la información mas importante.
 ## 📌 Puntos Claves (Opcional)
 - 
 

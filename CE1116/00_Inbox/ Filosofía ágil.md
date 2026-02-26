@@ -8,7 +8,7 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
-
+Divide y vencerás. Mindset de hacer las cosas de manera flexible y adaptándose en tiempo real a las circunstancias separando el trabajo por etapas, cada etapa funcional a su forma. Se busca generar una evolución o incremento en el producto con cada etapa.
 ## 📌 Puntos Claves (Opcional)
 - 
 

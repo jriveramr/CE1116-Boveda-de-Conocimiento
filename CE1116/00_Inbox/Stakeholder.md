@@ -5,9 +5,9 @@ tags:
 Tema:
 ---
 
-
 ## 📚 Idea/Concepto 
 
+Son todos los interesados detrás de un proyecto, puede incluir tanto dueños como inversores así como los clientes en cuestión. Tienen capacidad de influir en el futuro del proyecto.
 
 ## 📌 Puntos Claves (Opcional)
 - 

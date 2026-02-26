@@ -5,9 +5,9 @@ tags:
 Tema:
 ---
 
-
 ## 📚 Idea/Concepto 
 
+Es el ritmo y la métrica con las que se mide el avance de una etapa o sprint.
 
 ## 📌 Puntos Claves (Opcional)
 - 

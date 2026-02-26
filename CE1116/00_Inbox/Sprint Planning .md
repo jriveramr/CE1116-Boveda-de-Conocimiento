@@ -8,6 +8,7 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
+Es el momento donde cada individuo del equipo se reúne para ponerse de acuerdo en cuanto a qué tareas van a ser abarcadas en una determinada etapa del proyecto.
 
 ## 📌 Puntos Claves (Opcional)
 - 

@@ -5,9 +5,9 @@ tags:
 Tema:
 ---
 
-
 ## 📚 Idea/Concepto 
 
+Atiende las necesidades que el sistema requiere para funcionar íntegramente. El engranaje silencioso que nadie pide pero se necesita en todo producto.
 
 ## 📌 Puntos Claves (Opcional)
 - 

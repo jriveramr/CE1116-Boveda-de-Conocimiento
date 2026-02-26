@@ -8,7 +8,7 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
-
+Cuantas noches voy a desvelarme resolviendo y avanzando en el proyecto.
 ## 📌 Puntos Claves (Opcional)
 - 
 

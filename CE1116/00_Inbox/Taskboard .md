@@ -8,7 +8,7 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
-
+Es para gestionar y rastrear los avances y progresos de una etapa.
 ## 📌 Puntos Claves (Opcional)
 - 
 

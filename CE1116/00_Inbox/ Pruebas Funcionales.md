@@ -8,6 +8,7 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
+Verificar que se cumplen las funcionalidades y que es una app robusta frente a la interacción con el usuario.
 
 ## 📌 Puntos Claves (Opcional)
 - 

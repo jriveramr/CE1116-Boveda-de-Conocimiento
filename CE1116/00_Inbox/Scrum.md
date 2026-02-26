@@ -8,7 +8,7 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
-
+Forma de trabajar según la filosofía ágil, desarrolla la distribución de trabajo según roles y conceptos.
 ## 📌 Puntos Claves (Opcional)
 - 
 
