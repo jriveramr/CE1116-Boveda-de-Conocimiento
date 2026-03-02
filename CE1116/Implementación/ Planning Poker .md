@@ -1,20 +1,20 @@
 ---
 Fecha de creación: 2026-02-26 00:14
 Fecha de Modificación: 2026-02-26 00:14
-tags: 
+tags:
+  - implementacion
 Tema:
 ---
 
+
 ## 📚 Idea/Concepto 
 
-Una User Story se divide en Story Points, busca aproximar una historia de usuario a tareas directas.
-
-
+Cuantas noches voy a desvelarme resolviendo y avanzando en el proyecto.
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[Estándares de Programación]]
 
 ## 💡 Personal Insight (Opcional)
 - 

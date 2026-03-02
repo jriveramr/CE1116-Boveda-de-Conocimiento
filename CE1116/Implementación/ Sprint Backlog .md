@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2026-02-26 00:13
 Fecha de Modificación: 2026-02-26 00:13
-tags: 
+tags:
+  - implementacion
 Tema:
 ---
 
@@ -14,7 +15,7 @@ Es la lista de tareas durante una etapa en un proyecto. La completas y la etapa 
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Estándares de Programación]]
 
 ## 💡 Personal Insight (Opcional)
 - 

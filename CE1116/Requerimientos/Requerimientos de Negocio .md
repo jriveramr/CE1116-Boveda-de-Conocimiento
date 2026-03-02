@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2026-02-26 00:11
 Fecha de Modificación: 2026-02-26 00:11
-tags: 
+tags:
+  - requerimientos
 Tema:
 ---
 
@@ -13,7 +14,7 @@ Atienden a las necesidades del contexto donde el producto tendrá valor y será 
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Scrum ]]
 
 ## 💡 Personal Insight (Opcional)
 - 

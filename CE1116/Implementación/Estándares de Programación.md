@@ -1,9 +1,9 @@
 ---
-Fecha de creación: 2025-08-05 00:12
-Fecha de Modificación: 2025-08-05 00:12
+Fecha de creación: 2025-08-05 00:14
+Fecha de Modificación: 2025-08-05 00:14
 tags:
-  - "#pruebas"
-Tema: pruebas-automatizadas
+  - implementacion
+Tema: buenas-prácticas-desarrollo
 ---
 
 
@@ -14,7 +14,7 @@ Tema: pruebas-automatizadas
 - 
 
 ## 🔗 Connections
-- [[Estándares de Programación]]
+- 
 
 ## 💡 Personal Insight (Opcional)
 - 

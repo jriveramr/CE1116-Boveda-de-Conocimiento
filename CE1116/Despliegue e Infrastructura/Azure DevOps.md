@@ -1,10 +1,9 @@
 ---
-Fecha de creación: 2025-08-05 00:10
-Fecha de Modificación: 2025-08-05 00:10
+Fecha de creación: 2025-08-05 00:12
+Fecha de Modificación: 2025-08-05 00:12
 tags:
-  - "#arquitectura"
-Topic:
-  - estilos-arquitectura-software
+  - despliegueinsfraestructura
+Tema: control-ciclo-vida-producto
 ---
 
 
@@ -15,7 +14,7 @@ Topic:
 - 
 
 ## 🔗 Connections
-- [[Ejemplo Nueva Nota]]
+- [[Scrum]]
 
 ## 💡 Personal Insight (Opcional)
 - 

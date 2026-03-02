@@ -1,20 +1,21 @@
 ---
 Fecha de creación: 2026-02-26 00:14
 Fecha de Modificación: 2026-02-26 00:14
-tags: 
+tags:
+  - consignas
 Tema:
 ---
 
 ## 📚 Idea/Concepto 
 
-El encargado directo del producto que representa el proyecto. Debe velar por los intereses de los dueños y partes interesadas así como por el valor del proyecto en el mercado.
+Una User Story se divide en Story Points, busca aproximar una historia de usuario a tareas directas.
 
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[Scrum]]
 
 ## 💡 Personal Insight (Opcional)
 - 

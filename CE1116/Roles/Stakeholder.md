@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2026-02-26 00:12
 Fecha de Modificación: 2026-02-26 00:12
-tags: 
+tags:
+  - roles
 Tema:
 ---
 
@@ -13,7 +14,7 @@ Son todos los interesados detrás de un proyecto, puede incluir tanto dueños co
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Scrum ]]
 
 ## 💡 Personal Insight (Opcional)
 - 

@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2026-02-26 00:13
 Fecha de Modificación: 2026-02-26 00:13
-tags: 
+tags:
+  - requerimientos
 Tema:
 ---
 
@@ -14,7 +15,7 @@ Atiende las necesidades para que el proyecto sea útil y sirva para lo que fue c
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Scrum ]]
 
 ## 💡 Personal Insight (Opcional)
 - 

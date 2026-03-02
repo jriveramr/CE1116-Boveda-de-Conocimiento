@@ -1,19 +1,20 @@
 ---
 Fecha de creación: 2026-02-26 00:13
 Fecha de Modificación: 2026-02-26 00:13
-tags: 
+tags:
+  - requerimientos
 Tema:
 ---
 
 
 ## 📚 Idea/Concepto 
 
-Forma de trabajar según la filosofía ágil, desarrolla la distribución de trabajo según roles y conceptos.
+Atiende los gustos y preferencias de las partes involucradas así como detalles estéticos o mejoras en la experiencia del usuario.
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Scrum ]]
 
 ## 💡 Personal Insight (Opcional)
 - 

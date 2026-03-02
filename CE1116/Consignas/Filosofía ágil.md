@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2026-02-26 00:13
 Fecha de Modificación: 2026-02-26 00:13
-tags: 
+tags:
+  - consignas
 Tema:
 ---
 
@@ -13,7 +14,7 @@ Divide y vencerás. Mindset de hacer las cosas de manera flexible y adaptándose
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[Scrum]]
 
 ## 💡 Personal Insight (Opcional)
 - 

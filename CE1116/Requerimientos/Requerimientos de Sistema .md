@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2026-02-26 00:12
 Fecha de Modificación: 2026-02-26 00:12
-tags: 
+tags:
+  - requerimientos
 Tema:
 ---
 
@@ -13,7 +14,7 @@ Atiende las necesidades que el sistema requiere para funcionar íntegramente. El
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[ ]][[Scrum ]]
 
 ## 💡 Personal Insight (Opcional)
 - 

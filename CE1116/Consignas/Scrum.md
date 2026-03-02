@@ -1,19 +1,20 @@
 ---
 Fecha de creación: 2026-02-26 00:13
 Fecha de Modificación: 2026-02-26 00:13
-tags: 
+tags:
+  - consignas
 Tema:
 ---
 
 
 ## 📚 Idea/Concepto 
 
-Todas las tareas necesarias para desarrollar un proyecto en su totalidad, van divididas según las etapas del proyecto.
+Forma de trabajar según la filosofía ágil, desarrolla la distribución de trabajo según roles y conceptos.
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[Filosofía ágil]][[Story Points ]][[Velocity]][[Estándares de Programación]]
 
 ## 💡 Personal Insight (Opcional)
 - 

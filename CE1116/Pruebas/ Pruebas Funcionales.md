@@ -1,20 +1,21 @@
 ---
 Fecha de creación: 2026-02-26 00:15
 Fecha de Modificación: 2026-02-26 00:15
-tags: 
+tags:
+  - pruebas
 Tema:
 ---
 
 
 ## 📚 Idea/Concepto 
 
-Es el momento donde cada individuo del equipo se reúne para ponerse de acuerdo en cuanto a qué tareas van a ser abarcadas en una determinada etapa del proyecto.
+Verificar que se cumplen las funcionalidades y que es una app robusta frente a la interacción con el usuario.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[Definition of Done (DoD)]][[Pruebas Unitarias]][[Estándares de Programación]]
 
 ## 💡 Personal Insight (Opcional)
 - 
